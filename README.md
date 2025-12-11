@@ -106,9 +106,9 @@ This makes the dashboard fully dynamic and user-friendly.
 
 5  .🖼️ Dashboard Screenshot
 
-Show the Dashboard Look Like :
+Show What the Dashboard Look Like :[Alt text](https://github.com/victoriavangalapudi-crypto/PowerBI-Superstore-Project/blob/main/Screenshot.png)
+Example : [Superstore Dashboard](https://github.com/victoriavangalapudi-crypto/PowerBI-Superstore-Project/blob/main/Screenshot.png)
 
-[Superstore Dashboard](https://github.com/victoriavangalapudi-crypto/PowerBI-Superstore-Project/blob/main/Screenshot.png)
 
 5  .🛠️ Tools & Technologies Used
 
