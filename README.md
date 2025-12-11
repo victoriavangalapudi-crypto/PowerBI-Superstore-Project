@@ -1,5 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dca25c16-1b50-4161-ab15-2775b8ad8335" />#   
-Recommended Structure and Order
+  Recommended Structure and Order
 1  .Project Tittle/Headline : 
 🛒 Superstore Sales Dashboard – Power BI Project
 A Complete Sales Performance Analysis (2011–2014).
