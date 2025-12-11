@@ -1,10 +1,12 @@
 Recommended Structure and Order
   
 1  .Project Tittle/Headline : 
+
 🛒 Superstore Sales Dashboard – Power BI Project
 A Complete Sales Performance Analysis (2011–2014).
 
 2  .📌Short Description and Purpose
+
 This project presents an interactive Power BI dashboard built using the Sample Superstore dataset.
 The dashboard provides a clear and visually rich analysis of sales, profit, orders, categories, sub-categories, regions, and customer performance.
 The goal of this project is to help businesses quickly identify trends, track KPIs, and make data-driven decisions.
